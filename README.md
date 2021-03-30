@@ -15,4 +15,4 @@ Algoritma Naive Bayes merupakan sebuah metoda klasifikasi menggunakan metode pro
 - [x] No Reload Prediction
 - [x] Clean Design
 
-reach me at [@rbayuokt](https://www.linkedin.com/in/zfachrian/) :thumbsup:
+reach me at [@zfachrian](https://www.linkedin.com/in/zfachrian/) :thumbsup:
