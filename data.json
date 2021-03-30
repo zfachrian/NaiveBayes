@@ -1,0 +1,107 @@
+[
+	{
+		"umur" : "<=30",
+		"gaji" : "tinggi",
+		"hubungan" : "single",
+		"hutang" : "punya",
+		"status" : 0
+	},
+	{
+		"umur" : "<=30",
+		"gaji" : "tinggi",
+		"hubungan" : "single",
+		"hutang" : "tidak",
+		"status" : 0
+	},
+	{
+		"umur" : "30...40",
+		"gaji" : "tinggi",
+		"hubungan" : "single",
+		"hutang" : "punya",
+		"status" : 1
+	},
+	{
+		"umur" : "30...40",
+		"gaji" : "tinggi",
+		"hubungan" : "single",
+		"hutang" : "punya",
+		"status" : 1
+	},
+	{
+		"umur" : ">40",
+		"gaji" : "sedang",
+		"hubungan" : "single",
+		"hutang" : "punya",
+		"status" : 1
+	},
+	{
+		"umur" : ">40",
+		"gaji" : "rendah",
+		"hubungan" : "menikah",
+		"hutang" : "punya",
+		"status" : 1
+	},
+	{
+		"umur" : ">40",
+		"gaji" : "rendah",
+		"hubungan" : "menikah",
+		"hutang" : "tidak",
+		"status" : 0
+	},
+	{
+		"umur" : "30...40",
+		"gaji" : "rendah",
+		"hubungan" : "menikah",
+		"hutang" : "tidak",
+		"status" : 1
+	},
+	{
+		"umur" : "<=30",
+		"gaji" : "sedang",
+		"hubungan" : "single",
+		"hutang" : "punya",
+		"status" : 0
+	},
+	{
+		"umur" : "<=30",
+		"gaji" : "rendah",
+		"hubungan" : "menikah",
+		"hutang" : "punya",
+		"status" : 1
+	},
+	{
+		"umur" : ">40",
+		"gaji" : "sedang",
+		"hubungan" : "menikah",
+		"hutang" : "punya",
+		"status" : 1
+	},
+	{
+		"umur" : "<=30",
+		"gaji" : "sedang",
+		"hubungan" : "menikah",
+		"hutang" : "tidak",
+		"status" : 1
+	},
+	{
+		"umur" : "30...40",
+		"gaji" : "sedang",
+		"hubungan" : "single",
+		"hutang" : "tidak",
+		"status" : 1
+	},
+	{
+		"umur" : "30...40",
+		"gaji" : "tinggi",
+		"hubungan" : "menikah",
+		"hutang" : "punya",
+		"status" : 1
+	},
+	{
+		"umur" : ">40",
+		"gaji" : "sedang",
+		"hubungan" : "single",
+		"hutang" : "tidak",
+		"status" : 0
+	}
+]
